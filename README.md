@@ -7,3 +7,8 @@
 |[한수호]() |팀원|
 |[박신영]() |팀원|
 |[김지은]() |팀원|
+
+
+## 류영표
+- Domain : Deep knowledge tracing
+- Feedback Prize - Evaluating Student Writing 
